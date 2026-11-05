@@ -27,4 +27,4 @@
 | Award / Event | Result & Details |
 | :--- | :--- |
 | **🥇 ITWeb Security Summit 2026** | **1st Place Overall Winner** — Red Team CTF |
-| ** SANReN cybersecurity challenge CTF 2026 | **Top UNISA team and Top 15 overall out of 260 teams from 23 universities|
+| ** SANReN cybersecurity challenge CTF 2026** | **Top UNISA team and Top 15 overall out of 260 teams from 23 universities**|
